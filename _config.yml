@@ -1,7 +1,8 @@
 # Site settings
 title: John Field MSc
-tag_text: John Field, PHP, Symfony, Agile, Walthamstow, London
-description: John Field's GitHub page.
+_tag_text: John Field, PHP, Symfony, Agile, Walthamstow, London
+tag_text: John Field's GitHub Site
+description: A GitHub Site for John Field.
 
 # Build settings
 markdown: kramdown
