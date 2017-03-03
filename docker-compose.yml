@@ -2,7 +2,10 @@ jekyll:
     # https://kristofclaes.github.io/2016/06/19/running-jekyll-locally-with-docker/
     # docker-compose --file /DIR/docker-compose.yml up -d
     # http://localhost:4000/
-    image: jekyll/jekyll:pages
+    # docker-compose logs --follow jekyll
+    # docker-compose run jekyll bash (or docker exec -it jekyll bash )
+    image: jekyll/jekyll
+    #image: jekyll/jekyll:pages
     command: jekyll serve --watch --incremental
     ports:
         - 4000:4000

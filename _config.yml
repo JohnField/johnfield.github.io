@@ -1,7 +1,8 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: John Field MSc
+_tag_text: John Field, PHP, Symfony, Agile, Walthamstow, London
+tag_text: John Field's GitHub Site
+description: A GitHub Site for John Field.
 
 # Build settings
 markdown: kramdown
