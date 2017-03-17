@@ -4,14 +4,15 @@ layout: page
 
 ![Gravatar](https://en.gravatar.com/avatar/fe934364550d859ff5da98ba631f588b.png?size=200){: .avatar }
 
-Hello. I'm a hands-on technical leader, hands-on agile architect, veteran engineer, and champion of Agile practices, with a particular focus on open technologies (especially LAMP), modern practices, and open data.
+Hello. I'm a hands-on technical leader, agile architect, and veteran engineer, with a particular focus on open technologies (especially LAMP<sup id="a1">[1](#f1)</sup>
+), modern practices, and open data.
 
 Living in Walthamstow, London E17.
 
 [//]: # (http://stackoverflow.com/questions/4823468/comments-in-markdown)
 [//]: # (https://en.gravatar.com/site/implement/images/)
 
-*[LAMP]:     Linux, Apache, MySQL, PHP
+<b id="f1">1</b> Linux, Apache, MySQL, PHP [↩](#a1)
 
 ## Links
 
