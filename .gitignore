@@ -1,8 +1,12 @@
+# Jekyll
+.jekyll-metadata
+.bundle
 _site
 .sass-cache
 Gemfile.lock
 *.gem
 
-# Docker sandbox
-.jekyll-metadata
-.bundle
+# Eclipse IDE
+.buildpath
+.project
+.settings
