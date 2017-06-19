@@ -9,3 +9,10 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+
+  
+# See https://github.com/JohnField/googledoc-as-githubpage
+# The ID of the Google Doc to be embedded.  
+googledoc_id: 1cEF03nKm7c7qV8CoDSyytBhJTB0CxmXm42kPKp2r71o
+# Google Analytics code.
+ga_code: GA_CODE
