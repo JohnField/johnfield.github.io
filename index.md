@@ -16,17 +16,16 @@ Living in Walthamstow, London E17.
 
 ## Links
 
-* [Facebook](https://www.linkedin.com/in/JohnFieldUK)
-* [LinkedIn](https://www.facebook.com/john.field)
+* [LinkedIn](https://www.linkedin.com/in/JohnFieldUK)
 * [CV](http://bit.ly/johnfieldcv)
-* [GitHub](https://github.com/JohnField/) - but due to nature of previous employment, not much here that's public yet!
-* [Medium](https://medium.com/@vodex) - and, not much here, either!
-* I don't use Twitter.
+* [GitHub](https://github.com/JohnField/)
+* [Medium](https://medium.com/@vodex)
+* [Facebook](https://www.facebook.com/john.field)
+* [Twitter](https://twitter.com/@vodex)
 
 ## Posts
-Jekyll supports static posts, which could be useful.
 <hr>
-
+{% comment %} See jekyll-import.sh {% endcomment %}
 {% for post in site.posts limit:site.data.theme.num_home_posts %}
   <div class="post-header">
     <h3 class="post-title">
