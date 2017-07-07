@@ -4,20 +4,17 @@ layout: page
 
 ![Gravatar](https://en.gravatar.com/avatar/fe934364550d859ff5da98ba631f588b.png?size=200){: .avatar }
 
-Hello. I'm a hands-on technical leader, agile architect, and veteran engineer, with a particular focus on open technologies (especially LAMP<sup id="a1">[1](#f1)</sup>
-), modern practices, and open data.
+Hello. I'm a hands-on agile architect, technical leader, and veteran engineer, with a focus on open technologies and modern practices, particularly championing Agile practices and values.
 
 Living in Walthamstow, London E17.
 
 [//]: # (http://stackoverflow.com/questions/4823468/comments-in-markdown)
 [//]: # (https://en.gravatar.com/site/implement/images/)
 
-<b id="f1">1</b> Linux, Apache, MySQL, PHP [↩](#a1)
-
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/JohnFieldUK)
-* [CV](http://bit.ly/johnfieldcv)
+* [CV](https://johnfield.github.io/cv)
 * [GitHub](https://github.com/JohnField/)
 * [Medium](https://medium.com/@vodex)
 * [Facebook](https://www.facebook.com/john.field)
@@ -41,4 +38,3 @@ Living in Walthamstow, London E17.
 <div class="home-read-more">
   <a href="{{ "/archive" | prepend:site.baseurl }}" class="btn btn-primary btn-block btn-lg">View All {{ site.posts | size }} Articles →</a>
 </div>
-
