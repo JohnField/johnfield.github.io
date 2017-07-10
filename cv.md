@@ -1,28 +1,23 @@
-## John Field BSc MSc
 
-Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [https://github.com/mangini/gdocs2md](https://github.com/mangini/gdocs2md)
+[https://johnfield.github.io/cv](https://johnfield.github.io/cv) with [https://github.com/mangini/gdocs2md](https://github.com/mangini/gdocs2md)
 
 <table>
   <tr>
     <td>Email: John.Field@gMail.com</td>
-    <td>Phone: 07771 857707</td>
-  </tr>
-  <tr>
     <td>LinkedIn: https://www.linkedin.com/in/JohnFieldUK</td>
-    <td>Location: Walthamstow, London E17</td>
   </tr>
   <tr>
     <td>Nationality: British</td>
-    <td>Availability: Immediate</td>
+    <td>Location: Walthamstow, London E17</td>
   </tr>
 </table>
 
 
-Hands-on **technical leader, agile architect, and veteran engineer**, with a focus on open technologies and modern practices, particularly championing Agile practices and values. Seeking a senior technical leadership role bringing passion and impact to the London area. Particularly interested in EdTech / CivicTech / GovTech / PubTech,  social enterprise / charity / not-for-profit, and in-house positions.
+Hands-on **agile architect,** **technical leader, and veteran engineer**, particularly championing open technologies, modern Agile practices and values. Seeking a senior technical leadership role with impact in the London area.
 
 Technical focus on LAMP and related technologies. Cross-functional experience includes team lead, project lead, Agile experience, transformation and evangelisation, analysis/design, architecture, automation (including QA and TDD), mentorship, and excellent verbal / written / remote communication skills.
 
-Comfortable with both hands-on and hands-off, and with co-located or remote teams. Self-directed, lifelong learner; analytical, disciplined and methodical; with a drive for operational agility, self-improvement and personal growth.
+Comfortable with both hands-on and hands-off, and with co-located or remote teams. Self-directed, lifelong learner; analytical, disciplined and methodical; with a passion for operational agility, self-improvement and personal growth. Preference for EdTech / CivicTech / GovTech / PubTech, social enterprise / charity / not-for-profit, and in-house positions.
 
 Living in London since 2006. References available on request.
 
@@ -30,12 +25,11 @@ Living in London since 2006. References available on request.
 
 * * *
 
-
 LAMP (Linux, Apache, MySQL, PHP): 10+ years
 
 Agile practices and principles (Kanban, Scrum, Lean): 5+ years
 
-Project / team / tech / lead:  5+ years
+Project / team / tech / lead: 5+ years
 
 Architecture / analysis / design / etc. : 3+ years
 
@@ -48,11 +42,11 @@ Related technologies / frameworks: Symfony, Solr, Drupal, Ubuntu Linux, REST / h
 * * *
 
 
-#### Learning Platform Team Lead, [AVADO](https://www.blenheimchalcot.com/ventures/avado) (Mar 2017 - July 2017)
+#### Learning Platform Team Lead, [AVADO](https://www.blenheimchalcot.com/ventures/avado) (Mar 2017 - June 2017)
 
 * Team Lead with elements of tech lead, agile coach / practitioner, and scrum-master for a heavily customised Moodle (PHP) codebase running on WISP stack (Windows, IIS, SQL Server, PHP) integrated with various Windows/ .NET systems
 
-* Build, scale, and lead a cross-functional development team; transition to  LEPP stack (Linux, Nginx, PHP, PostgreSQL) in Vagrant / Salt / Azure environment as part of business cost reduction strategy
+* Build, scale, and lead a cross-functional development team; transition to LEPP stack (Linux, Nginx, PHP, PostgreSQL) in Vagrant / Salt / Azure environment as part of business cost reduction strategy
 
 * Understand and stabilise legacy codebase. Document codebase, processes, other tacit knowledge lost due to staff turnover. Fix critical bugs, perform deployments, automate manual processes, etc. 
 
