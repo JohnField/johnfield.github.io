@@ -1,5 +1,6 @@
+### John Field BSc MSc
 
-[https://johnfield.github.io/cv](https://johnfield.github.io/cv) with [https://github.com/mangini/gdocs2md](https://github.com/mangini/gdocs2md)
+Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [https://github.com/mangini/gdocs2md](https://github.com/mangini/gdocs2md)
 
 <table>
   <tr>
@@ -24,6 +25,7 @@ Living in London since 2006. References available on request.
 ##### Core Skills
 
 * * *
+
 
 LAMP (Linux, Apache, MySQL, PHP): 10+ years
 
