@@ -1,56 +1,54 @@
 ### John Field BSc MSc
 
-Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [https://github.com/mangini/gdocs2md](https://github.com/mangini/gdocs2md)
+Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs2md](https://github.com/mangini/gdocs2md)
 
-<table>
-  <tr>
-    <td>Email: John.Field@gMail.com</td>
-    <td>LinkedIn: https://www.linkedin.com/in/JohnFieldUK</td>
-  </tr>
-  <tr>
-    <td>Nationality: British</td>
-    <td>Location: Walthamstow, London E17</td>
-  </tr>
-</table>
+* * *
 
+**LinkedIn**: https://www.linkedin.com/in/JohnFieldUK
 
-Hands-on **agile architect,** **technical leader, and veteran engineer**, particularly championing open technologies, modern Agile practices and values. Seeking a senior technical leadership role with impact in the London area.
+**Nationality**: British
 
-Technical focus on LAMP and related technologies. Cross-functional experience includes team lead, project lead, Agile experience, transformation and evangelisation, analysis/design, architecture, automation (including QA and TDD), mentorship, and excellent verbal / written / remote communication skills.
+**Location**: Walthamstow, London E17
 
-Comfortable with both hands-on and hands-off, and with co-located or remote teams. Self-directed, lifelong learner; analytical, disciplined and methodical; with a passion for operational agility, self-improvement and personal growth. Preference for EdTech / CivicTech / GovTech / PubTech, social enterprise / charity / not-for-profit, and in-house positions.
+* * *
 
-Living in London since 2006. References available on request.
+Hands-on **agile architect, technical leader, and veteran engineer**, with a focus on championing modern agile approaches. Seeking a senior technical leadership opportunity with social impact.
 
-##### Core Skills
+Cross-functional experience includes team lead, project lead, Agile practices and principles (Kanban, Scrum, Lean); architecture / analysis / design; coaching / mentoring / evangelisation; and excellent verbal / written / remote communication skills.
+
+Comfortable with a hands-on, hands-off, or mixed approach, with co-located or remote teams. Self-directed, lifelong learner; self-disciplined, analytical and methodical; with a passion for operational agility, self-improvement and personal growth.
+
+Particularly interested in social impact / social business opportunities with civic contribution to London, including "tech for good" / edTech / civicTech / govTech / social enterprise / “beyond profits” / charity / co-ops.
+
+Living in Walthamstow, London E17.
 
 * * *
 
 
-LAMP (Linux, Apache, MySQL, PHP): 10+ years
+## Experience
 
-Agile practices and principles (Kanban, Scrum, Lean): 5+ years
+#### Senior Software Engineer, [BBC Studios](https://www.bbcstudios.com/) / BBC Design + Engineering (formerly [BBC Worldwide](https://www.bbcworldwide.com/)) (July 2017 - present)
 
-Project / team / tech / lead: 5+ years
+*International Content Platform - greenfield catalogue / showcase for programmes / formats for international licensing of BBC intellectual property*
 
-Architecture / analysis / design / etc. : 3+ years
+* Symfony, Silex, JSON API, Node, Express; some React, Elasticsearch, GraphQL
 
-Coaching / mentoring / evangelization: 3+ years
+* Microservices, Docker, Kubernetes, Terraform, AWS, Splunk
 
-Related technologies / frameworks: Symfony, Solr, Drupal, Ubuntu Linux, REST / hypermedia API, HTML / CSS, Javascript, GIt, GitHub, TDD, BDD, DevOps
+* Cross-functional team of approximately 10:  Kanban, DevOps, JIRA, CI / CD (Jenkins)
 
-## Experience History
+* Challenges included learning-curve of Node and modern Javascript; some legacy site maintenance
 
 * * *
 
 
 #### Learning Platform Team Lead, [AVADO](https://www.blenheimchalcot.com/ventures/avado) (Mar 2017 - June 2017)
 
-* Team Lead with elements of tech lead, agile coach / practitioner, and scrum-master for a heavily customised Moodle (PHP) codebase running on WISP stack (Windows, IIS, SQL Server, PHP) integrated with various Windows/ .NET systems
+*Team Lead with elements of tech lead, agile coach / practitioner, and scrum-master for a heavily customised Moodle (PHP) codebase running on WISP stack (Windows, IIS, SQL Server, PHP) integrated with various Microsoft systems*
 
-* Build, scale, and lead a cross-functional development team; transition to LEPP stack (Linux, Nginx, PHP, PostgreSQL) in Vagrant / Salt / Azure environment as part of business cost reduction strategy
+* Build, scale, and lead a cross-functional development team; transition to LEPP stack (Linux, Nginx, PHP, PostgreSQL) in Vagrant / Salt / Azure environment as part of cost reduction
 
-* Understand and stabilise legacy codebase. Document codebase, processes, other tacit knowledge lost due to staff turnover. Fix critical bugs, perform deployments, automate manual processes, etc. 
+* Understand and stabilise legacy platform. Document codebase, processes, other tacit knowledge lost due to staff turnover. Fix critical bugs, perform deployments, etc. 
 
 * Take ownership of typical legacy Scrum implementation (JIRA). Act as scrum-master and de-facto project manager, working with multiple internal stakeholders. Project discovery, sprint planning / retrospectives, organising QA, etc.
 
@@ -60,6 +58,8 @@ Related technologies / frameworks: Symfony, Solr, Drupal, Ubuntu Linux, REST / h
 
 
 #### Senior Software Architect, [Alexander Street](http://alexanderstreet.com/page/about-us) (Jan 2012 - Jan 2017)
+
+*Strategic / managerial role for born-digital scholarly publisher. ASP was acquired by ProQuest in June 2016.*
 
 * Senior technical leadership with managerial elements
 
@@ -165,11 +165,11 @@ LAMP (Linux, Apache, MySQL, PHP), object-oriented PHP 5, custom MVC platform, Ze
 * * *
 
 
-#### Developer, [Portsmouth Business School](http://www.port.ac.uk/departments/faculties/portsmouthbusinessschool/) (Feb 2005 - June 2006)
+#### Developer, [Portsmouth Business School](http://www.port.ac.uk/departments/faculties/portsmouthbusinessschool/) (Feb 2005 - June 2006)
 
 **Responsibilities**: Analysis, architecture, development, deployment, and maintenance of [GoalPost](http://vodex.net/goalpost/), a student "Personal Development Planning" e-learning system for careers & self-development, for over 2000 students and 150 staff.
 
-**Achievements:** Full responsibility for entire development lifecycle. Designed, developed, tested, & deployed system under time and budget. Took on staff training sessions, quality assurance, documentation, server admin, & troubleshooting. Successfully lobbied for, and implemented, social networking elements to system. Presentations of systems & findings, conferences. Contract extended to extend system as a student feedback capturing & analysis application, and to prototype a folksonomic content management system, for Business School staff. Technologies incorporated  into central University systems upon leaving
+**Achievements:** Full responsibility for entire development lifecycle. Designed, developed, tested, & deployed system under time and budget. Took on staff training sessions, quality assurance, documentation, server admin, & troubleshooting. Successfully lobbied for, and implemented, social networking elements to system. Presentations of systems & findings, conferences. Contract extended to extend system as a student feedback capturing & analysis application, and to prototype a folksonomic content management system, for Business School staff. Technologies incorporated  into central University systems upon leaving
 
 * * *
 
@@ -205,7 +205,7 @@ LAMP (Linux, Apache, MySQL, PHP), object-oriented PHP 5, custom MVC platform, Ze
 
 **Responsibilities**: Lecturer for a wide variety of courses teaching vocational I.T. & related skills to a wide range of people, from school-leavers to company directors, up to and including HNC level. Subjects included programming, web design, and business analysis an I.T. context. Course management and administration. Large amounts of self-motivated, independent work, including course design
 
-**Achievements**: Literally helped hundreds of people to progress their own lives and careers. Achieved record student retention rates. Initially two evenings a night, was promoted several times to final position. Increased interpersonal and communication skills.  Involved in regular auditing with external bodies. Consulted on modernisation proposals for course content.
+**Achievements**: Literally helped hundreds of people to progress their own lives and careers. Achieved record student retention rates. Initially two evenings a night, was promoted several times to final position. Increased interpersonal and communication skills.  Involved in regular auditing with external bodies. Consulted on modernisation proposals for course content.
 
 * * *
 
@@ -224,8 +224,3 @@ LAMP (Linux, Apache, MySQL, PHP), object-oriented PHP 5, custom MVC platform, Ze
 GSCES & A-Levels, including Maths, Physics, Biology
 
 * * *
-
-
-### Random CV Trivia
-
-Philosophy, current affairs, science / natural history (astronomy, paleontology, space science, evolutionary psychology, etc.); I've also performed a sponsored firewalk and am an admin of Walthamstow Life ([https://www.facebook.com/groups/walthamstowlife/](https://www.facebook.com/groups/walthamstowlife/)), a community group for Walthamstow, London, with over 12,000 members.
