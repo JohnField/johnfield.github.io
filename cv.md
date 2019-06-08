@@ -4,38 +4,34 @@ Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs
 
 * * *
 
-**LinkedIn**: https://www.linkedin.com/in/JohnFieldUK
-
-**Nationality**: British
+**LinkedIn**: [https://www.linkedin.com/in/JohnFieldUK](https://www.linkedin.com/in/JohnFieldUK)
 
 **Location**: Walthamstow, London E17
 
 * * *
 
-Hands-on **agile architect, technical leader, and veteran engineer**, with a focus on championing modern agile approaches. Seeking a senior technical leadership opportunity with social impact.
 
-Cross-functional experience includes team lead, project lead, Agile practices and principles (Kanban, Scrum, Lean); architecture / analysis / design; coaching / mentoring / evangelisation; and excellent verbal / written / remote communication skills.
+**Hands-on technical leader, veteran engineer, and agile architect**, with interests in modern agile and emergent organisational practices.
 
-Comfortable with a hands-on, hands-off, or mixed approach, with co-located or remote teams. Self-directed, lifelong learner; self-disciplined, analytical and methodical; with a passion for operational agility, self-improvement and personal growth.
+Seeking senior tech opportunities and challenges in the tech for good / social impact / meaningful work space; including social enterprises and co-operatives. Particularly interested in edTech, civicTech, greenTech sectors.
 
-Particularly interested in social impact / social business opportunities with civic contribution to London, including "tech for good" / edTech / civicTech / govTech / social enterprise / “beyond profits” / charity / co-ops.
+Considerable technical, soft-skill, and cross-functional experience, including team lead, project lead, architecture and design; agile evangelism (principles and practices); coaching and mentoring; and communication and related skills. Comfortable with variety of approaches; hands-on, hands-off, mixed, on-site, remote.
 
-Living in Walthamstow, London E17.
-
+Self-directed and self-disciplined lifelong learner, aligned with personal agility and personal growth. As well as numerous personal interests in current affairs, science, and philosophy, including Effective Altruism and distributed collaborative organisations, I’m also an admin for [Walthamstow Life](https://www.facebook.com/groups/walthamstowlife/), a local community group with over 18,000 members.
 * * *
 
 
 ## Experience
 
-#### Senior Software Engineer, [BBC Studios](https://www.bbcstudios.com/) / BBC Design + Engineering (formerly [BBC Worldwide](https://www.bbcworldwide.com/)) (July 2017 - present)
+#### Senior Software Engineer, [BBC Studios](https://www.bbcstudios.com/) (July 2017 - present)
 
-*International Content Platform - greenfield catalogue / showcase for programmes / formats for international licensing of BBC intellectual property*
+Consumer Digital Technology department within the commercial [BBC Worldwide](https://www.bbcworldwide.com/), which merged into BBC Studios April 2018.
 
-* Symfony, Silex, JSON API, Node, Express; some React, Elasticsearch, GraphQL
+*International Content Platform - digital catalogue / showcase of programmes and other BBC intellectual property for international licensing*
 
-* Microservices, Docker, Kubernetes, Terraform, AWS, Splunk
+* Microservices: Symfony, Silex, JSON API, Node, Express, React, Elasticsearch, GraphQL, Docker,, Kubernetes, Terraform, AWS, Splunk
 
-* Cross-functional team of approximately 10:  Kanban, DevOps, JIRA, CI / CD (Jenkins)
+* Cross-functional team of approximately 10: Kanban, DevOps, JIRA, CI / CD (Jenkins)
 
 * Challenges included learning-curve of Node and modern Javascript; some legacy site maintenance
 
