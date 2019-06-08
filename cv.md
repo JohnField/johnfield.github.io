@@ -1,5 +1,3 @@
-### John Field BSc MSc
-
 Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs2md](https://github.com/mangini/gdocs2md)
 
 * * *
@@ -44,7 +42,7 @@ Consumer Digital Technology department within the commercial [BBC Worldwide](htt
 
 * Build, scale, and lead a cross-functional development team; transition to LEPP stack (Linux, Nginx, PHP, PostgreSQL) in Vagrant / Salt / Azure environment as part of cost reduction
 
-* Understand and stabilise legacy platform. Document codebase, processes, other tacit knowledge lost due to staff turnover. Fix critical bugs, perform deployments, etc. 
+* Understand and stabilise legacy platform. Document codebase, processes, other tacit knowledge lost due to staff turnover. Fix critical bugs, perform deployments, etc.
 
 * Take ownership of typical legacy Scrum implementation (JIRA). Act as scrum-master and de-facto project manager, working with multiple internal stakeholders. Project discovery, sprint planning / retrospectives, organising QA, etc.
 
@@ -77,7 +75,7 @@ Consumer Digital Technology department within the commercial [BBC Worldwide](htt
 
 ##### Key Achievements
 
-* Main deliverable: "LAZR" - [https://search.alexanderstreet.com](https://search.alexanderstreet.com) content discovery / delivery / consumption platform - tech stack includes Solr 5.x, Symfony 2.x, Drupal 7.x, JavaScript media players, Agile practices, and a chunk of backend legacy / CRM / content-pipeline code. Delivered in an iterative manner since 2013 
+* Main deliverable: "LAZR" - [https://search.alexanderstreet.com](https://search.alexanderstreet.com) content discovery / delivery / consumption platform - tech stack includes Solr 5.x, Symfony 2.x, Drupal 7.x, JavaScript media players, Agile practices, and a chunk of backend legacy / CRM / content-pipeline code. Delivered in an iterative manner since 2013
 
 * Architect related work in parallel to the Team / Tech Lead position
 
