@@ -4,7 +4,7 @@ layout: page
 
 ![Gravatar](https://en.gravatar.com/avatar/fe934364550d859ff5da98ba631f588b.png?size=200){: .avatar }
 
-Hello. I'm a hands-on agile architect, technical leader, and veteran engineer, with a focus on open technologies and modern practices, particularly championing Agile practices and values.
+Hello. I'm a hands-on technical leader, veteran engineer, and agile architect**, with interests in modern agile and emergent organisational practices.
 
 Living in Walthamstow, London E17.
 
