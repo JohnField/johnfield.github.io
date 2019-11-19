@@ -2,6 +2,8 @@ Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs
 
 * * *
 
+## John Field BSc MSc
+
 **LinkedIn**: [https://www.linkedin.com/in/JohnFieldUK](https://www.linkedin.com/in/JohnFieldUK)
 
 **Location**: Walthamstow, London E17
@@ -9,27 +11,37 @@ Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs
 * * *
 
 
-**Hands-on technical leader, veteran engineer, and agile architect**, with interests in modern agile and emergent organisational practices.
+**Hands-on technical leader, veteran engineer, and agile architect**, with particular interests in modern agile and emergent organisational practices.
 
-Seeking senior tech opportunities and challenges in the tech for good / social impact / meaningful work space; including social enterprises and co-operatives. Particularly interested in edTech, civicTech, greenTech sectors.
+Seeking senior tech opportunities and challenges in the tech for good / social impact / meaningful work spaces; particular interests in edTech, civicTech, govTech, greenTech sectors and social enterprises and co-operative organisations.
 
-Considerable technical, soft-skill, and cross-functional experience, including team lead, project lead, architecture and design; agile evangelism (principles and practices); coaching and mentoring; and communication and related skills. Comfortable with variety of approaches; hands-on, hands-off, mixed, on-site, remote.
+Considerable technical, soft-skill, and cross-functional experience, including team lead, project lead, architecture and design; agile evangelism (principles and practices); coaching and mentoring; and communication and related skills. Comfortable with a variety of approaches; hands-on, hands-off, mixed, on-site, remote.
 
-Self-directed and self-disciplined lifelong learner, aligned with personal agility and personal growth. As well as numerous personal interests in current affairs, science, and philosophy, including Effective Altruism and distributed collaborative organisations, I’m also an admin for [Walthamstow Life](https://www.facebook.com/groups/walthamstowlife/), a local community group with over 18,000 members.
+Self-directed and self-disciplined lifelong learner, aligned with personal agility and personal growth. As well as numerous personal interests in current affairs, science, and philosophy, including Effective Altruism and distributed collaborative organisations. I’m also an administrator for [Walthamstow Life](https://www.facebook.com/groups/walthamstowlife/), a Facebook community group with over 20,000 members.
 * * *
 
 
 ## Experience
 
-#### Senior Software Engineer, [BBC Studios](https://www.bbcstudios.com/) (July 2017 - present)
+#### Lead Engineer, [Apolitical](https://apolitical.co/) (July 2019 - current)
+
+*Head technical role, leading engineering team of 4 in a 30 in a GovTech startup, building the first global learning platform for government.*
+
+Building on a legacy Wordpress codebase migrating to microservices architecture. PHP, MySQL, modern JavaScript, Node, React; DevOps, GCP, Kubernetes; some Rust, Python
+Mixed hands on, hands off approach; management, architecture, design, coding, mentoring, define processes, hiring, etc.
+
+* * *
+
+
+#### Senior Software Engineer, [BBC Studios](https://www.bbcstudios.com/) (July 2017 - May 2019)
 
 Consumer Digital Technology department within the commercial [BBC Worldwide](https://www.bbcworldwide.com/), which merged into BBC Studios April 2018.
 
 *International Content Platform - digital catalogue / showcase of programmes and other BBC intellectual property for international licensing*
 
-* Microservices: Symfony, Silex, JSON API, Node, Express, React, Elasticsearch, GraphQL, Docker,, Kubernetes, Terraform, AWS, Splunk
+* Microservices: Symfony, Silex, PHP, JSON API, Node, Express, React, Elasticsearch, GraphQL, MySQL, Postgres, Docker
 
-* Cross-functional team of approximately 10: Kanban, DevOps, JIRA, CI / CD (Jenkins)
+* Mixed-role team of up to 10: Kanban, DevOps, JIRA, CI / CD (Jenkins), Kubernetes, Terraform, AWS, Splunk
 
 * Challenges included learning-curve of Node and modern Javascript; some legacy site maintenance
 
@@ -38,15 +50,15 @@ Consumer Digital Technology department within the commercial [BBC Worldwide](htt
 
 #### Learning Platform Team Lead, [AVADO](https://www.blenheimchalcot.com/ventures/avado) (Mar 2017 - June 2017)
 
-*Team Lead with elements of tech lead, agile coach / practitioner, and scrum-master for a heavily customised Moodle (PHP) codebase running on WISP stack (Windows, IIS, SQL Server, PHP) integrated with various Microsoft systems*
+*Team Lead with elements of tech lead, agile coach / practitioner, and scrum-master for a heavily customised Moodle (PHP) codebase running on legacy WISP stack with various Microsoft ecosystem integrations*
 
-* Build, scale, and lead a cross-functional development team; transition to LEPP stack (Linux, Nginx, PHP, PostgreSQL) in Vagrant / Salt / Azure environment as part of cost reduction
+* Build and lead a cross-functional development team; transition from legacy WISP to LEPP stack in mixed cloud environment as part of cost reduction
 
-* Understand and stabilise legacy platform. Document codebase, processes, other tacit knowledge lost due to staff turnover. Fix critical bugs, perform deployments, etc.
+* Understand and stabilise legacy platform. Document codebase, processes, implicit / lost knowledge, critical fixes, deployments, etc.
 
-* Take ownership of typical legacy Scrum implementation (JIRA). Act as scrum-master and de-facto project manager, working with multiple internal stakeholders. Project discovery, sprint planning / retrospectives, organising QA, etc.
+* Act in typical pseudo-scrum JIRA legacy environment. Project discovery, sprint planning / retrospectives, organising QA, work with stakeholders, etc.
 
-* Build-in modern Agile practices to increase quality, reduce risk, and foster culture change / learning mindset
+* Establish Modern Agile practices to increase quality, reduce risk, foster learning culture
 
 * * *
 
@@ -75,7 +87,7 @@ Consumer Digital Technology department within the commercial [BBC Worldwide](htt
 
 ##### Key Achievements
 
-* Main deliverable: "LAZR" - [https://search.alexanderstreet.com](https://search.alexanderstreet.com) content discovery / delivery / consumption platform - tech stack includes Solr 5.x, Symfony 2.x, Drupal 7.x, JavaScript media players, Agile practices, and a chunk of backend legacy / CRM / content-pipeline code. Delivered in an iterative manner since 2013
+* Main deliverable: "LAZR" - [https://search.alexanderstreet.com](https://search.alexanderstreet.com) content discovery / delivery / consumption platform - tech stack includes Solr 5.x, Symfony 2.x, Drupal 7.x, JavaScript media players, Agile practices, and a chunk of backend legacy / CRM / content-pipeline code. Delivered in an iterative manner since 2013 
 
 * Architect related work in parallel to the Team / Tech Lead position
 
@@ -216,5 +228,3 @@ LAMP (Linux, Apache, MySQL, PHP), object-oriented PHP 5, custom MVC platform, Ze
 #### [Wallingford School](http://www.wallingford.oxon.sch.uk/), Wallingford (1985-1992)
 
 GSCES & A-Levels, including Maths, Physics, Biology
-
-* * *
