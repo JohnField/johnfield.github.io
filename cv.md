@@ -10,25 +10,22 @@ Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs
 
 * * *
 
+**Hands-on technical leader, veteran engineer, and agile architect**. Seeking senior leadership challenges in the tech for good / social impact spaces, including civicTech, govTech, and edTech, social enterprises and co-operatives.
 
-**Hands-on technical leader, veteran engineer, and agile architect**, with particular interests in modern agile and emergent organisational practices.
+Considerable breadth in technical, organisational, and soft skills, including tech, team and project lead; cross-functional engineering, architecture and design; agile evangelism; coaching and mentoring. Comfortable with hands-on, hands-off, mixed, on-site, remote approaches. Self-directed, self-disciplined, with a strong interest in personal growth.
 
-Seeking senior tech opportunities and challenges in the tech for good / social impact / meaningful work spaces; particular interests in edTech, civicTech, govTech, greenTech sectors and social enterprises and co-operative organisations.
-
-Considerable technical, soft-skill, and cross-functional experience, including team lead, project lead, architecture and design; agile evangelism (principles and practices); coaching and mentoring; and communication and related skills. Comfortable with a variety of approaches; hands-on, hands-off, mixed, on-site, remote.
-
-Self-directed and self-disciplined lifelong learner, aligned with personal agility and personal growth. As well as numerous personal interests in current affairs, science, and philosophy, including Effective Altruism and distributed collaborative organisations. I’m also an administrator for [Walthamstow Life](https://www.facebook.com/groups/walthamstowlife/), a Facebook community group with over 20,000 members.
 * * *
-
 
 ## Experience
 
 #### Lead Engineer, [Apolitical](https://apolitical.co/) (July 2019 - current)
 
-*Head technical role, leading engineering team of 4 in a 30 in a GovTech startup, building the first global learning platform for government.*
+*Head technical role, leading an Engineering team of 5 in a GovTech startup of 35, reporting to Director of Product. We’re building the first global learning platform for government.*
 
-Building on a legacy Wordpress codebase migrating to microservices architecture. PHP, MySQL, modern JavaScript, Node, React; DevOps, GCP, Kubernetes; some Rust, Python
-Mixed hands on, hands off approach; management, architecture, design, coding, mentoring, define processes, hiring, etc.
+* Build out microservices platform, while migrating away from legacy MVP (heavily customised Wordpress), while growing both team and culture
+* Stack: Node, React, modern Javascript, MySQL, Postgres, Python, some Rust, legacy PHP. DevOps: Google Cloud Platform, Kubernetes, Gitlab CI / CD
+* Leadership: culture setting, defining and iterating processes, spec / design / build of replacement components and new features, hiring, mentoring, people management, pairing, agile practices, understanding and dealing with unknowns, risks, legacy systems, etc. Personal growth in fast-moving startup culture
+
 
 * * *
 
@@ -87,7 +84,7 @@ Consumer Digital Technology department within the commercial [BBC Worldwide](htt
 
 ##### Key Achievements
 
-* Main deliverable: "LAZR" - [https://search.alexanderstreet.com](https://search.alexanderstreet.com) content discovery / delivery / consumption platform - tech stack includes Solr 5.x, Symfony 2.x, Drupal 7.x, JavaScript media players, Agile practices, and a chunk of backend legacy / CRM / content-pipeline code. Delivered in an iterative manner since 2013 
+* Main deliverable: "LAZR" - [https://search.alexanderstreet.com](https://search.alexanderstreet.com) content discovery / delivery / consumption platform - tech stack includes Solr 5.x, Symfony 2.x, Drupal 7.x, JavaScript media players, Agile practices, and a chunk of backend legacy / CRM / content-pipeline code. Delivered in an iterative manner since 2013
 
 * Architect related work in parallel to the Team / Tech Lead position
 
