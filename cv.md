@@ -3,7 +3,7 @@ layout: default
 title: John Field's CV
 ---
 
-Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs2md](https://github.com/mangini/gdocs2md)
+_Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs2md](https://github.com/mangini/gdocs2md)_
 
 * * *
 
@@ -15,59 +15,62 @@ Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs
 
 * * *
 
-**Hands-on technical leader, veteran engineer, and agile architect**. Seeking senior leadership challenges in the tech for good / social impact spaces, including civicTech, govTech, and edTech, social enterprises and co-operatives.
 
-Considerable breadth in technical, organisational, and soft skills, including tech, team and project lead; cross-functional engineering, architecture and design; agile evangelism; coaching and mentoring. Comfortable with hands-on, hands-off, mixed, on-site, remote approaches. Self-directed, self-disciplined, with a strong interest in personal growth.
+Technical leader, veteran engineer, and agile architect. **Seeking further challenges and growth opportunities in tech for good / social impact space, including CivicTech, GovTech, EdTech and ClimateTech.
 
-* * *
+Over 20 years expertise in technical, organisational, and soft skills; multiple lead roles in cross-functional teams; coaching and mentoring; agile evangelism; architecture and design.
 
-## Experience
-
-#### Lead Engineer, [Apolitical](https://apolitical.co/) (July 2019 - current)
-
-*Head technical role, leading an Engineering team of 5 in a GovTech startup of 35, reporting to Director of Product. We’re building the first global learning platform for government.*
-
-* Build out microservices platform, while migrating away from legacy MVP (heavily customised Wordpress), while growing both team and culture
-* Stack: Node, React, modern Javascript, MySQL, Postgres, Python, some Rust, legacy PHP. DevOps: Google Cloud Platform, Kubernetes, Gitlab CI / CD
-* Leadership: culture setting, defining and iterating processes, spec / design / build of replacement components and new features, hiring, mentoring, people management, pairing, agile practices, understanding and dealing with unknowns, risks, legacy systems, etc. Personal growth in fast-moving startup culture
-
+Comfortable with a variety of hands-on, hands-off, on/off site approaches. Self-directed, self-disciplined, lifelong learner, with interest in emerging organisational practice, including Modern Agile, distributed governance and co-operatives.
 
 * * *
 
 
-#### Senior Software Engineer, [BBC Studios](https://www.bbcstudios.com/) (July 2017 - May 2019)
+## Summary
 
-Consumer Digital Technology department within the commercial [BBC Worldwide](https://www.bbcworldwide.com/), which merged into BBC Studios April 2018.
+#### Lead Engineer, Senior Software Engineer [Apolitical](https://apolitical.co/) (July 2019 - Jan 2021)
 
-*International Content Platform - digital catalogue / showcase of programmes and other BBC intellectual property for international licensing*
+*Technical leadership role, building Engineering team, culture, processes, in a GovTech product-driven startup of 35, building the first global learning platform for government.*
 
-* Microservices: Symfony, Silex, PHP, JSON API, Node, Express, React, Elasticsearch, GraphQL, MySQL, Postgres, Docker
+* Build out Engineering team, culture, processes, while migrating away from legacy WordPress system to modern services architecture
+
+* Node, React, MySQL, Postgres, Sequelize, Auth0, Google Cloud Platform (GCP, GKE), Kubernetes, Gitlab CI / CD, Helm, Terraform, some Python (data science, including semantic tech), PHP (heavily customised WordPress), some elasticsearch, some Rust
+
+* Leadership: vision, hiring, culture setting, day-to-day mentoring, defining, evangelising, and evolving processes; requirements / design / delivery of new or replacement platform features / components and features; hiring, agile practices, documentation, risk management, etc.
+
+* Personal growth in fast-paced early-stage startup
+
+* * *
+
+
+#### Senior Software Engineer, [BBC Studios](https://www.bbcstudios.com/) / [BBC Worldwide](https://www.bbcworldwide.com/) (July 2017 - May 2019)
+
+Consumer Digital Technology department within the commercial / global arm of the BBC.
+
+*Building **[BBC Studios Sale*s](https://sales.bbcstudios.com/)* global content showcase of BBC  programmes / formats for international licensing*
+
+* Microservices: Symfony, Silex, PHP, modern Javascript, Node, JSON API, Express, React, Elasticsearch, GraphQL, MySQL, Postgres, Docker
 
 * Mixed-role team of up to 10: Kanban, DevOps, JIRA, CI / CD (Jenkins), Kubernetes, Terraform, AWS, Splunk
 
-* Challenges included learning-curve of Node and modern Javascript; some legacy site maintenance
-
 * * *
 
 
-#### Learning Platform Team Lead, [AVADO](https://www.blenheimchalcot.com/ventures/avado) (Mar 2017 - June 2017)
+#### Learning Platform Lead, [AVADO](https://www.blenheimchalcot.com/ventures/avado) (Mar 2017 - June 2017)
 
-*Team Lead with elements of tech lead, agile coach / practitioner, and scrum-master for a heavily customised Moodle (PHP) codebase running on legacy WISP stack with various Microsoft ecosystem integrations*
+*Team / Tech Lead, agile coach / practitioner for a heavily customised Moodle (PHP) codebase running on legacy WISP stack with Microsoft ecosystem integrations*
 
-* Build and lead a cross-functional development team; transition from legacy WISP to LEPP stack in mixed cloud environment as part of cost reduction
+* Understand and stabilise legacy platform; document codebase, processes, etc.
 
-* Understand and stabilise legacy platform. Document codebase, processes, implicit / lost knowledge, critical fixes, deployments, etc.
+* Build and lead a cross-functional to transition from legacy stack to cloud environment in context of cost reduction
 
-* Act in typical pseudo-scrum JIRA legacy environment. Project discovery, sprint planning / retrospectives, organising QA, work with stakeholders, etc.
-
-* Establish Modern Agile practices to increase quality, reduce risk, foster learning culture
+* Establish Modern Agile practices to increase quality, reduce risk, foster learning culture; project discovery, establish sprints, iterative culture, working with stakeholders ,etc.
 
 * * *
 
 
 #### Senior Software Architect, [Alexander Street](http://alexanderstreet.com/page/about-us) (Jan 2012 - Jan 2017)
 
-*Strategic / managerial role for born-digital scholarly publisher. ASP was acquired by ProQuest in June 2016.*
+*Strategic / managerial role for digital humanities publisher. Acquired by ProQuest in June 2016.*
 
 * Senior technical leadership with managerial elements
 
@@ -173,60 +176,18 @@ LAMP (Linux, Apache, MySQL, PHP), object-oriented PHP 5, custom MVC platform, Ze
 * * *
 
 
-#### Developer, [Portsmouth Business School](http://www.port.ac.uk/departments/faculties/portsmouthbusinessschool/) (Feb 2005 - June 2006)
+*Details of below omitted for brevity; available on request.*
 
-**Responsibilities**: Analysis, architecture, development, deployment, and maintenance of [GoalPost](http://vodex.net/goalpost/), a student "Personal Development Planning" e-learning system for careers & self-development, for over 2000 students and 150 staff.
-
-**Achievements:** Full responsibility for entire development lifecycle. Designed, developed, tested, & deployed system under time and budget. Took on staff training sessions, quality assurance, documentation, server admin, & troubleshooting. Successfully lobbied for, and implemented, social networking elements to system. Presentations of systems & findings, conferences. Contract extended to extend system as a student feedback capturing & analysis application, and to prototype a folksonomic content management system, for Business School staff. Technologies incorporated  into central University systems upon leaving
-
-* * *
-
-
-#### Web Developer, [Geodata Institute](http://www.geodata.soton.ac.uk/), University of Southampton (Jan-Feb 2005)
-
-**Responsibilities**: Analysis, design & development of PHP-driven web sites and Visual Basic geological information system (GIS) applications as part of specialised web development team
-
-**Achievements**: involved with GIS systems for councils and scientific teams; including completing a Vodafone population application in under 50% of budget. Left during trial period for subsequent position
-
-* * *
-
+#### Developer, [Portsmouth Business School](http://www.port.ac.uk/departments/faculties/portsmouthbusinessschool/) (Feb 2005 - June 2006)
 
 #### [MSc. Internet Systems Development](http://www.port.ac.uk/courses/coursetypes/postgraduate/MScInternetSystemsDevelopmentDl/), University of Portsmouth (2003-2004)
 
-**Responsibilities**: Personal career development via a specialist technical course; considerable self-management, independent & team work, on small & medium projects
-
-**Achievements**: Merit grade; expanded and formalised my capabilities & knowledge; achieved higher results in areas I was new to compared to colleagues with experience in the subject; increase in self-confidence and awareness; word-of-mouth good reputation led to future employment. Dissertation included developing timetabling application for a local school
-
-* * *
-
-
 #### Implementer, [The Innovation Group](http://www.uk.innovation-group.com/) (2000-2003)
-
-**Responsibilities**: Analysis and design of financial insurance systems, including backend data processing, presentation, administration, marketing websites both independently and as part of prototyping client-facing teams
-
-**Achievements**: Promoted from trainee to core development team; involvement in business milestones, mission-critical development, and client prototype demonstrations. Left position to undertake Master's degree for career purposes
-
-* * *
-
 
 #### I.T. Lecturer & Course Manager, [School Of Computing](http://www.highbury.ac.uk/CLIENT/depart_column.asp?ContentId=594), Highbury College (1997-2000)
 
-**Responsibilities**: Lecturer for a wide variety of courses teaching vocational I.T. & related skills to a wide range of people, from school-leavers to company directors, up to and including HNC level. Subjects included programming, web design, and business analysis an I.T. context. Course management and administration. Large amounts of self-motivated, independent work, including course design
-
-**Achievements**: Literally helped hundreds of people to progress their own lives and careers. Achieved record student retention rates. Initially two evenings a night, was promoted several times to final position. Increased interpersonal and communication skills.  Involved in regular auditing with external bodies. Consulted on modernisation proposals for course content.
-
-* * *
-
-
 #### [BSc. (Hon) Applied Physics](http://www.port.ac.uk/courses/coursetypes/undergraduate/BScHonsAppliedPhysics/), University of Portsmouth (1992-1996)
-
-**Responsibilities**: Gain first degree, personal growth. Sandwich year with industrial placement at British Steel's Technological Research Laboratories
-
-**Achievements**: 2.ii grade, final year project: simulation of gravity formation of galactic arms (A grade); Merit grade for Diploma of Industrial Studies (from sandwich placement)
-
-* * *
-
 
 #### [Wallingford School](http://www.wallingford.oxon.sch.uk/), Wallingford (1985-1992)
 
-GSCES & A-Levels, including Maths, Physics, Biology
+GSCEs & A-Levels, including Maths, Physics, Biology

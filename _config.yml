@@ -5,10 +5,8 @@ theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
 
 # Site settings
-title: John Field MSc
-tag_text: John Field's GitHub Site
-description: John Field's GitHub Site
-google_analytics: 93000729
+title: John Field's GitHub Site
+google_analytics: UA-93000729-1
 
 # Build settings
 markdown: kramdown
