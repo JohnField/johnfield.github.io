@@ -16,3 +16,4 @@ sass:
 googledoc_id: 1cEF03nKm7c7qV8CoDSyytBhJTB0CxmXm42kPKp2r71o
 # Google Analytics code.
 ga_code: GA_CODE
+theme: jekyll-theme-cayman
