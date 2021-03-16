@@ -1,16 +1,10 @@
 # johnfield.github.io
 
- * Intended as a single page launchpoint.
- * Runs with Docker - see docker-compose.yml
+A standard [GitHub Page](https://docs.github.com/en/github/working-with-github-pages).
+It previously used [Solo](http://chibicode.github.io/solo) theme and [https://import.jekyllrb.com](jekyll-import) as a mini-blog, which was removed to simplify the aging setup.
 
- * Uses [Solo](http://chibicode.github.io/solo) instead of an inbuilt Github Page Theme
- * Because of [volume permissions issues](http://stackoverflow.com/a/18817767), local sandbox may need e.g.
+## Local development
 
-    chmod -R 0777 ./_site .jekyll-metadata
+Simply use docker-compose via https://github.com/Starefossen/docker-github-pages :
 
- * Remember to revert before committing, e.g.:
-
-    find * -type d -print0 | xargs -0 chmod 0755 # directories
-
-    find . -type f -print0 | xargs -0 chmod 0644 # files
-
+ * `JEKYLL_GITHUB_TOKEN={$TOKEN} docker-compose up`

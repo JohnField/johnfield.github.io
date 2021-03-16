@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 ![Gravatar](https://en.gravatar.com/avatar/fe934364550d859ff5da98ba631f588b.png?size=200){: .avatar }
@@ -19,22 +19,3 @@ Living in Walthamstow, London E17.
 * [Medium](https://medium.com/@vodex)
 * [Facebook](https://www.facebook.com/john.field)
 * [Twitter](https://twitter.com/@vodex)
-
-## Posts
-<hr>
-{% comment %} See jekyll-import.sh {% endcomment %}
-{% for post in site.posts limit:site.data.theme.num_home_posts %}
-  <div class="post-header">
-    <h3 class="post-title">
-      <a href="{{ post.url | prepend:site.baseurl }}">{{ post.title }}</a>
-    </h3>
-  </div>
-  <div class="post-excerpt-home">
-    {{ post.excerpt }}
-    <p class="text-right"><a href="{{ post.url | prepend:site.baseurl }}">Continue Reading &rarr;</a></p>
-  </div>
-{% endfor %}
-<hr>
-<div class="home-read-more">
-  <a href="{{ "/archive" | prepend:site.baseurl }}" class="btn btn-primary btn-block btn-lg">View All {{ site.posts | size }} Articles →</a>
-</div>

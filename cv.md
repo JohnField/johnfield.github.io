@@ -1,3 +1,8 @@
+---
+layout: default
+title: John Field's CV
+---
+
 Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs2md](https://github.com/mangini/gdocs2md)
 
 * * *

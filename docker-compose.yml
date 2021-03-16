@@ -1,12 +1,13 @@
-jekyll:
-    # https://kristofclaes.github.io/2016/06/19/running-jekyll-locally-with-docker/
-    # docker-compose logs --follow johnfield.github.io
-    # docker exec -it johnfield.github.io bash
-    image: jekyll/jekyll
-    #image: jekyll/jekyll:pages
+version: '3'
+services:
+  jekyll:
+    image: starefossen/github-pages
     container_name: johnfield.github.io
-    command: jekyll serve --watch --incremental
+    # user: "${USER_ID}:${GROUP_ID}"
+    environment:
+      - "JEKYLL_GITHUB_TOKEN:${JEKYLL_GITHUB_TOKEN}"
     ports:
-        - 4000:4000
+      - 4000:4000
     volumes:
-        - .:/srv/jekyll
+      - ./:/usr/src/app
+    tty: true
