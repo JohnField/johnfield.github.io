@@ -7,4 +7,8 @@ It previously used [Solo](http://chibicode.github.io/solo) theme and [https://im
 
 Simply use docker-compose via https://github.com/Starefossen/docker-github-pages :
 
- * `JEKYLL_GITHUB_TOKEN={$TOKEN} docker-compose up`
+ * `docker-compose up`
+
+ Metadata is defined in `_config.yml`
+
+ Inspect build artefacts with e.g. `docker exec johnfield.github.io less /_site/sitemap.xml`

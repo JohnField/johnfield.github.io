@@ -1,6 +1,7 @@
 ---
 layout: default
 title: John Field's CV
+permalink: "cv/"
 ---
 
 _Imported from [http://bit.ly/johnfieldcv](http://bit.ly/johnfieldcv) with [gdocs2md](https://github.com/mangini/gdocs2md)_
