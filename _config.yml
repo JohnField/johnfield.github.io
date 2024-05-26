@@ -9,7 +9,7 @@ repository: JohnField/johnfield.github.io
 url: https://johnfield.github.io/
 title: John Field
 description: John Field's GitHub Pages
-logo: https://en.gravatar.com/avatar/fe934364550d859ff5da98ba631f588b.png?size=200
+logo: https://en.gravatar.com/avatar/d31396a433873bd3a734661849c39d14a54dbf60f27ab04904478930a2f216d7.png?size=200
 google_analytics: UA-93000729-1
 
 # Build
@@ -17,6 +17,6 @@ exclude: ['.gitignore', 'docker-compose.yml', 'README.md']
 markdown: kramdown
 incremental: true
 
-# See https://github.com/JohnField/googledoc-as-githubpage
-# The ID of the Google Doc to be embedded.
-googledoc_id: 1cEF03nKm7c7qV8CoDSyytBhJTB0CxmXm42kPKp2r71o
+# No longer needed: https://github.com/JohnField/googledoc-as-githubpage
+# Instead, embed directly from gDocs: File ->Share -> Publish to web
+# googledoc_id: 1cEF03nKm7c7qV8CoDSyytBhJTB0CxmXm42kPKp2r71o

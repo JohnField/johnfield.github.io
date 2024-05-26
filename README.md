@@ -5,10 +5,8 @@ It previously used [Solo](http://chibicode.github.io/solo) theme and [https://im
 
 ## Local development
 
-Simply use docker-compose via https://github.com/Starefossen/docker-github-pages :
+Use https://github.com/Starefossen/docker-github-pages, e.g.:
 
- * `docker-compose up`
+ * `docker run -it --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages`
 
  Metadata is defined in `_config.yml`
-
- Inspect build artefacts with e.g. `docker exec johnfield.github.io less /_site/sitemap.xml`
